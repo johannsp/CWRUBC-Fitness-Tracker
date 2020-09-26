@@ -2,6 +2,11 @@
 
 A web application to track workout status with Mongo/Mongoose backend
 
+Heroku link:
+https://afternoon-gorge-05496.herokuapp.com/
+
+[![Fitness-Tracker-Mongoose-Web-App-preview.png](https://i.postimg.cc/Y9gTQm3c/Fitness-Tracker-Mongoose-Web-App-preview.png)](https://postimg.cc/gXzMWjQ4)
+
 ## Table of Contents
 - [Installation](https://github.com/johannsp/CWRUBC-Fitness-Tracker#Installation) 
 - [Usage](https://github.com/johannsp/CWRUBC-Fitness-Tracker#Usage) 
@@ -37,12 +42,3 @@ see the LICENSE.md file for details
 
 After cloning this repository, push to a custom branch and create a pull request.
 
-## Tests
-
-
-
-## Questions
-
-Q:
-
-A:
